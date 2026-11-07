@@ -1,5 +1,7 @@
 # Transcribe Audio — Engine Lab
 
+**Explore online:** [Visit the Transcribe Audio Engine Lab website](https://luckygithub777.github.io/transcribe-audio-engine-lab/). Discover the project overview and its source-backed, mock-tested engineering approach.
+
 A small Python learning lab for inspecting audio transcription engine integration, GPU/CPU selection, model readiness, and safe transcript-file creation. The bundled tests use **synthetic mock engines**, not personal recordings or online inference.
 
 ## Test without downloads
