@@ -1,5 +1,7 @@
 # Transcribe Audio — Engine Lab
 
+**Explore online:** [Open the public browser experience](https://luckygithub777.github.io/transcribe-audio-engine-lab/). The website explains transcription pipeline concepts; actual audio transcription requires the separately installed source tools.
+
 A small Python learning lab for inspecting audio transcription engine integration, GPU/CPU selection, model readiness, and safe transcript-file creation. The bundled tests use **synthetic mock engines**, not personal recordings or online inference.
 
 ## Test without downloads
