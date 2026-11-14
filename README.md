@@ -11,6 +11,6 @@ python tests/test_engine_mock.py
 python tests/test_probe_mock.py
 ```
 
-Actual transcription requires separately installed PyTorch, Whisper and compatible model files, plus media that you are authorized to process. Models may be downloaded on first use; review dependencies and privacy implications before using real recordings. This source edition does not include an installer, a hosted service, model weights, or recordings.
+Actual transcription requires separately installed PyTorch, Whisper and compatible model files, plus media that you are authorized to process. Models may be downloaded on first use; review dependencies and privacy implications before using real recordings. This repository does not include an installer, a hosted service, model weights, or recordings.
 
-**License:** The original MIT [LICENSE](LICENSE) and attribution are preserved. Automated transcripts may contain mistakes; verify important facts against source media. [MANIFEST.sha256](MANIFEST.sha256) records source hashes.
+**License:** The MIT [LICENSE](LICENSE) and its attribution requirements apply. Automated transcripts may contain mistakes; verify important facts against source media. [MANIFEST.sha256](MANIFEST.sha256) records source hashes.
